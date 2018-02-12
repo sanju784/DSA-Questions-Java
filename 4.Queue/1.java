@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Sliding Window Maximum
  * 
- * Time  Complexity - O(n)
+ * Time  Complexity - O(nLogk)
  * Space Complexity - O(k)
  */
 class stack {
